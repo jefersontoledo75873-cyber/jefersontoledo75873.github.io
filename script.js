@@ -19,7 +19,7 @@ const noMessages = [
     "YES LAGEEEE😜",
     "BALA KA...",
     "Last chance! 😭",
-    "You can't catch me anyway 
+    "You can't catch me anyway"
 ]
 
 const yesTeasePokes = [
