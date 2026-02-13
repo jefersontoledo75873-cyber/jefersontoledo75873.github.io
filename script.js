@@ -1,3 +1,4 @@
+
 const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
@@ -11,21 +12,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Dili nako nimo love? 🤔",
-    "nanakay ka date?... 🥺",
-    "Sure najud?",
-    "nanluod ka nako no?... 😢",
-    "Huhuhu di na siya nako... 💔",
-    "Last Chance for NO💢"
-    "Last chance!😭",
-    "Wala na di naka kadakop😜"
+    "Are you positive? 🤔",
+    "Pookie please... 🥺",
+    "If you say no, I will be really sad...",
+    "I will be very sad... 😢",
+    "Please??? 💔",
+    "Don't do this to me...",
+    "Last chance! 😭",
+    "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "try sa ang No.. gaan tika 20😏",
-    "padayona nalang huhu.. 👀",
-    "No baaaaaaaa.🤕",
-    "og mo click no, mo gwaapa kag samot😏"
+    "try saying no first... I bet you want to know what happens 😏",
+    "go on, hit no... just once 👀",
+    "you're missing out 😈",
+    "click no, I dare you 😏"
 ]
 
 let yesTeasedCount = 0
@@ -41,7 +42,7 @@ const music = document.getElementById('bg-music')
 
 // Autoplay: audio starts muted (bypasses browser policy), unmute immediately
 music.muted = true
-music.volume = 0.5
+music.volume = 0.3
 music.play().then(() => {
     music.muted = false
 }).catch(() => {
