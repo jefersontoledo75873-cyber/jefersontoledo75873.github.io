@@ -16,10 +16,10 @@ const noMessages = [
     "Ngano No man jud?🥺",
     "Di nako nmo Love?😟",
     "YES BAAAAAA!!🙄",
-    "OKAY NO😓",
+    "YES LAGEEEE😜",
     "BALA KA...",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "You can't catch me anyway 
 ]
 
 const yesTeasePokes = [
