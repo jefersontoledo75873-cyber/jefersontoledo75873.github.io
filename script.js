@@ -16,7 +16,7 @@ const noMessages = [
     "Ngano No man jud?🥺",
     "Di nako nmo Love?😟",
     "YES BAAAAAA!!🙄",
-    "YES NALANG LAGE!😝",
+    "OKAY NO😓",
     "BALA KA...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
