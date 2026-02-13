@@ -12,11 +12,11 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "YES ba 🤔",
-    "YES lageeee🥺",
-    "Di nako nmo Love? 😟",
-    "YES na lage gaya eyyy🙄",
-    "BIG NO",
+    "Wa lage ka mo YES 🤔",
+    "Ngano No man jud?🥺",
+    "Di nako nmo Love?😟",
+    "YES BAAAAAA!!🙄",
+    "YES NALANG LAGE!😝",
     "BALA KA...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
@@ -24,9 +24,9 @@ const noMessages = [
 
 const yesTeasePokes = [
     "Ngano mana bby na 😏",
-    "Dili ka mo YES? 👀",
-    "Huhuhuhuhu",
-    "😏"
+    "Dili ka YES? 👀",
+    "Sige e No lang sa",
+    "Bati nawng"
 ]
 
 let yesTeasedCount = 0
