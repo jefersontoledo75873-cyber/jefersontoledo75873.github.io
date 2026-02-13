@@ -16,8 +16,8 @@ const noMessages = [
     "Sure najud?",
     "nanluod ka nako no?... 😢",
     "Huhuhu di na siya nako... 💔",
-    "Di najud ko nmo love?😖...",
-    "Last chance! 😭",
+    "Last Chance for NO💢"
+    "Last chance!😭",
     "Wala na di naka kadakop😜"
 ]
 
