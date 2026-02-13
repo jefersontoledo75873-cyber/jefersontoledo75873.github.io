@@ -15,17 +15,17 @@ const noMessages = [
     "nanakay ka date?... 🥺",
     "Sure najud?",
     "nanluod ka nako no?... 😢",
-    "Please??? 💔",
-    "Di najud ko nmo love?...",
+    "Huhuhu di na siya nako... 💔",
+    "Di najud ko nmo love?😖...",
     "Last chance! 😭",
     "Wala na di naka kadakop😜"
 ]
 
 const yesTeasePokes = [
     "try sa ang No.. gaan tika 20😏",
-    "e No ba! luod ko ron.. 👀",
-    "No baaaaaaaa.😈",
-    "og mo click no, mo gwaapa kag samot 😏"
+    "padayona nalang huhu.. 👀",
+    "No baaaaaaaa.🤕",
+    "og mo click no, mo gwaapa kag samot😏"
 ]
 
 let yesTeasedCount = 0
@@ -41,7 +41,7 @@ const music = document.getElementById('bg-music')
 
 // Autoplay: audio starts muted (bypasses browser policy), unmute immediately
 music.muted = true
-music.volume = 0.3
+music.volume = 0.5
 music.play().then(() => {
     music.muted = false
 }).catch(() => {
